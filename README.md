@@ -1,9 +1,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
+<div>
 <h1 align="center">Hi 👋, I'm Jishnu Prasad Samal</h1>
 <h3 align="center">A passionate full stack student developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnu-prasad-s&label=Profile%20views&color=0e75b6&style=flat" alt="jishnu-prasad-s" /> 
+<p align="left">
+<img alt="jishnu-prasad-s" src="https://komarev.com/ghpvc/?username=jishnu-prasad-s&style=plastic&label=Profile+Views"> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/jishnu-prasad-s?style=plastic">
 </p>
 
