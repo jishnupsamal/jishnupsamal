@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishnu-prasad-s" alt="jishnu-prasad-s" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **me@jishnupsamal.ml**
+- 📫 How to reach me **jishnu@jishnupsamal.ml**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
