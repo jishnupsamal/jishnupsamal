@@ -7,8 +7,10 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - name: Checkout
+              uses: actions/checkout@v2
+            - name: Pull in blog posts
+              uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://jishnupsamal.ml/blog/rss.xml"
+                feed_list: "https://jishnupsamal.ml/blog/rss.xml, https://jishnupsamal.pages.dev/blog/rss.xml"
