@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/jishnuprasadsamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jishnuprasadsamal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCJfwzLoOITpAQ9WsOEy6E6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jishnu prasad samal" height="30" width="40" /></a>
+<a href="https://youtube.com/@jishnupsamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jishnu prasad samal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jishnuprs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jishnuprs" height="30" width="40" /></a>
 <a href="https://dev.to/jishnupsamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jishnupsamal" height="30" width="40" /></a>
 <a href="https://jishnupsamal.ml/blog/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jishnupsamal.ml/blog/rss.xml" height="30" width="40" /></a>
