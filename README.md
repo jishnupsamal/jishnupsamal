@@ -4,11 +4,11 @@
 <h3 align="center">A passionate full stack student developer from India</h3>
 
 <p align="left">
-<img alt="jishnu-prasad-s" src="https://komarev.com/ghpvc/?username=jishnu-prasad-s&style=plastic&label=Profile+Views"> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/jishnu-prasad-s?style=plastic">
+<img alt="jishnupsamal" src="https://komarev.com/ghpvc/?username=jishnupsamal&style=plastic&label=Profile+Views"> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/jishnupsamal?style=plastic">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishnu-prasad-s" alt="jishnu-prasad-s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishnupsamal" alt="jishnu-prasad-s" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -42,8 +42,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnu-prasad-s&show_icons=true&locale=en&layout=compact&langs_count=10" alt="jishnu-prasad-s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnupsamal&show_icons=true&locale=en&layout=compact&langs_count=10" alt="jishnu-prasad-s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnu-prasad-s&show_icons=true&locale=en&count_private=true" alt="jishnu-prasad-s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnupsamal&show_icons=true&locale=en&count_private=true" alt="jishnu-prasad-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnu-prasad-s&" alt="jishnu-prasad-s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnupsamal&" alt="jishnu-prasad-s" /></p>
