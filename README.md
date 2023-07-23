@@ -14,11 +14,11 @@
 
 - 📫 How to reach me **jishnu@jishnupsamal.ml**
 
-- 👨‍💻 All of my projects are available at **[https://jishnupsamal.ml/about#projects](https://jishnupsamal.ml/about#projects)**
+- 👨‍💻 All of my projects are available at **[https://jishnupsamal.me/about#projects](https://jishnupsamal.me/about#projects)**
 
-- 📝 I regularly write articles on **[https://jishnupsamal.ml/blog](https://jishnupsamal.ml/blog)**
+- 📝 I regularly write articles on **[https://jishnupsamal.me/blog](https://jishnupsamal.me/blog)**
 
-- 📄 Know about my experiences **[https://jishnupsamal.ml/about#skills](https://jishnupsamal.ml/about#skills)**
+- 📄 Know about my experiences **[https://jishnupsamal.me/about#skills](https://jishnupsamal.me/about#skills)**
 
 - ⚡ Fun fact **I know how to google. 🤯**
 
