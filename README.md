@@ -8,11 +8,11 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/jishnupsamal?style=plastic">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishnupsamal" alt="jishnu-prasad-s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishnupsamal" alt="jishnupsamal" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **jishnu@jishnupsamal.ml**
+- 📫 How to reach me **jishnu@jishnupsamal.me**
 
 - 👨‍💻 All of my projects are available at **[https://jishnupsamal.me/about#projects](https://jishnupsamal.me/about#projects)**
 
@@ -36,14 +36,11 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnupsamal&show_icons=true&locale=en&layout=compact&langs_count=10" alt="jishnu-prasad-s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishnupsamal&show_icons=true&locale=en&layout=compact&langs_count=10" alt="jishnupsamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnupsamal&show_icons=true&locale=en&count_private=true" alt="jishnu-prasad-s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnupsamal&show_icons=true&locale=en&count_private=true" alt="jishnupsamal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnupsamal&" alt="jishnu-prasad-s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnupsamal&" alt="jishnupsamal" /></p>
