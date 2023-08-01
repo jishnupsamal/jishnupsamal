@@ -44,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishnupsamal&show_icons=true&locale=en&count_private=true" alt="jishnupsamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishnupsamal&" alt="jishnupsamal" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J8NRUCP)
